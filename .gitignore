@@ -1,0 +1,12 @@
+build/
+bin/
+out/
+captures/
+*.exe
+*.o
+*.obj
+*.log
+.vs/
+.vscode/
+.idea/
+CMakeUserPresets.json
